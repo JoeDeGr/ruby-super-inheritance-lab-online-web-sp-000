@@ -16,5 +16,5 @@ def ChattyStudent < Student
     super
     super
   end
-  
+
     
